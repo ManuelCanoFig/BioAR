@@ -1,0 +1,6 @@
+
+1.- La textura globulo2 va sobrel el material_002, en modo rendering es fade,en main maps van las textura globulo2 tambien en specular, smoothess en 0, en forward rendering
+options le quitamos el reflections
+2.-  La textura virus va sobre el material_003, modo de rendering fade, en main maps albedo y specular van la textura virus, todo lo demas queda por defecto
+3.-La textura vena va sobre el material_001, modo fade , albedo y metalic con la textura vena smoothness en 0, no reflections 
+4. El script va sobre el objeto VIH

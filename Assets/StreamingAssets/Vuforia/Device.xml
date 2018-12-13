@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Galeria" size="100.000000 100.000000" />
+    <ImageTarget name="VIH_1" size="100.000000 100.000000" />
+    <ImageTarget name="VIH" size="100.000000 100.000000" />
+    <ImageTarget name="WorldHot" size="512.000000 512.000000" />
+    <ImageTarget name="Iceberg" size="100.000000 100.000000" />
+    <ImageTarget name="Reproduccion" size="400.000000 400.000000" />
+  </Tracking>
+</QCARConfig>
